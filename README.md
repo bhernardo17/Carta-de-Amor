@@ -2,7 +2,7 @@ Carta de Amor para Minha Namorada
 
 💌 Sobre:
 
-Uma carta de amor simples, carinhosa e criativa, criada para minha namorada que está viajando. Este repositório contém a ideia base da carta, que pode ser personalizada e adaptada para qualquer situação romântica.
+Uma carta de amor simples, carinhosa e criativa, criada para você mandar para sua pessoa amada... Este repositório contém a ideia base da carta, que pode ser personalizada e adaptada para qualquer situação romântica.
 
 🛠️ Recursos/Tecnologias Utilizados:
 
