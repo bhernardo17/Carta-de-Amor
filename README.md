@@ -1,4 +1,4 @@
-Carta de Amor para Minha Namorada
+Carta de Amor para sua Namorada
 
 💌 Sobre:
 
